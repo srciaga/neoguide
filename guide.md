@@ -1,3 +1,8 @@
+---
+title: Mini Neocities Guide
+date: May 28, 2024
+---
+
 # Planning
 
 Before creating your website, plan it out. What pages do you want? An about page? A gallery? What do you want your website to look like? There are no rules—it's up to you. The only limit is your coding ability and the resources you can find.
