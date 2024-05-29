@@ -1,0 +1,40 @@
+@import url(chota.css);
+
+:root {
+  --grid-maxWidth: 80rem;
+  --color-primary: blue;
+  --font-color: #454545;
+}
+
+body {
+  font-family: monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #333333;
+}
+
+p,
+ul {
+  font-size: 1.3rem;
+}
+
+#logo {
+  width: 200px;
+}
+
+.warn {
+  width: 65%;
+  border-radius: 0px;
+  border: 1px solid var(--color-grey);
+  background: #ffeaea;
+}
+
+footer {
+  opacity: 0.4;
+}

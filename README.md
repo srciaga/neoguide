@@ -1,6 +1,11 @@
-Making a website on [Neocities](https://neocities.org/).
+A short beginner's guide to making a website on [Neocities](https://neocities.org/).
 
-### Notes
+The guide is written in Markdown and the HTML is generated with Pandoc.
 
-- [MD to HTML w/ pandoc](https://www.arthurkoziel.com/convert-md-to-html-pandoc/)
-- [chota css framework](https://github.com/jenil/chota)
+Using [chota](https://github.com/jenil/chota), a micro (3kb) CSS framework.
+
+To generate `index.html`:
+
+```sh
+pandoc --standalone --template=template.html guide.md -o index.html
+```

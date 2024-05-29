@@ -3,7 +3,7 @@ title: Mini Neocities Guide
 date: May 28, 2024
 ---
 
-# Planning
+## Planning
 
 Before creating your website, plan it out. What pages do you want? An about page? A gallery? What do you want your website to look like? There are no rules—it's up to you. The only limit is your coding ability and the resources you can find.
 
@@ -21,11 +21,13 @@ Here are some resources I've found:
 - [Zonelets](https://zonelets.net/) - HTML blogging engine (something to consider if you want a blog!)
 - [Neocities tutorial page](https://neocities.org/tutorials)
 
-# Coding
+---
+
+## Coding
 
 You need to learn HTML and CSS to build your site. If you want to add interactivity, learn JavaScript. Finding code snippets online is helpful, but understanding HTML/CSS basics goes a long way.
 
-## Editor
+### Editor
 
 [Visual Studio Code](https://code.visualstudio.com/) is a popular editor with many helpful extensions. Although many editors are available, I recommend this one. For a simple Neocities site, you could write your code in Notepad, but VSCode offers many helpful features. Check out [this video](https://youtu.be/EUJlVYggR1Y?si=LoeVbRudnkp9PfEC) to get started.
 
@@ -35,24 +37,34 @@ Here are some plugins I recommend:
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Formats your code, with an option to format on save.
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Updates the browser preview every time you save.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically renames paired tags.
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) - Provides CSS support for HTML files.
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically adds closing tags for HTML.
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Checks your code for spelling errors.
 
-## Learning
+### Learning
 
-Follow a tutorial. Find the format that works best for you. That can be a written tutorial or a video.
+Follow a tutorial. Find the format that works best for you. That can be a written tutorial or a video. Make sure you follow along with your tutorial. You won't learn by just watching-you have to code!
 
 Before coding, know your content and layout. Write your HTML first, then use CSS.
 
 Don't get discouraged! There are so many resources online, and you can always ask for help. You do not have to memorize every single HTML tag or CSS property.
 
-Remember to have fun!!
+---
 
-# Uploading to Neocities
+## Uploading to Neocities
 
 Once your site is done, upload it to Neocities. Click the upload button to select your files or drag and drop them (faster).
 
-**WARNING!**
+::: {.card .warn}
+::: {.text-error .text-uppercase}
+#### Warning!
+:::
 
 - Do not upload multiple folders at once.
 - If a file has the same name as an existing file in that folder, the old file will be overwritten.
+::: 
 
 Every time you want to update a page, just drag and drop it to replace the old file. If you're adding a new page, remember to link to it so people can access it.
+
+Remember to have fun!!
