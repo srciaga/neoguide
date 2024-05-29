@@ -1,6 +1,13 @@
 ---
 title: Mini Neocities Guide
 date: May 28, 2024
+description: A short beginner's guide to making a website on Neocities.
+---
+
+[Neocities](https://neocities.org/) is a social network of websites that brings back the lost individual creativity of the web. It offers free static web hosting and tools to create and share your own website.
+
+This guide is for anyone with little to no HTML/CSS knowledge who wants to build their first site!
+
 ---
 
 ## Planning
@@ -44,11 +51,11 @@ Here are some plugins I recommend:
 
 ### Learning
 
-Follow a tutorial. Find the format that works best for you. That can be a written tutorial or a video. Make sure you follow along with your tutorial. You won't learn by just watching-you have to code!
+Before coding, plan your content and layout. Write your HTML first, then style it with CSS.
 
-Before coding, know your content and layout. Write your HTML first, then use CSS.
+Follow a tutorial in a format that works best for you, whether written or video. Make sure you actively code along with the tutorial—watching alone isn't enough. There are tutorials mentioned in the [planning section](planning).
 
-Don't get discouraged! There are so many resources online, and you can always ask for help. You do not have to memorize every single HTML tag or CSS property.
+You don't need to memorize every HTML tag or CSS property. Learn enough to bring your ideas to life on the webpage. If you have an idea but aren't sure how to implement it, look it up! Don't get discouraged—there are plenty of resources online, and you can always ask for help.
 
 ---
 
@@ -57,14 +64,12 @@ Don't get discouraged! There are so many resources online, and you can always as
 Once your site is done, upload it to Neocities. Click the upload button to select your files or drag and drop them (faster).
 
 ::: {.card .warn}
-::: {.text-error .text-uppercase}
+::: {.text-uppercase}
 #### Warning!
 :::
-
 - Do not upload multiple folders at once.
 - If a file has the same name as an existing file in that folder, the old file will be overwritten.
 ::: 
-
 Every time you want to update a page, just drag and drop it to replace the old file. If you're adding a new page, remember to link to it so people can access it.
 
 Remember to have fun!!
