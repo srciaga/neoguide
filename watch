@@ -8,7 +8,7 @@
 # - https://github.com/emcrisostomo/fswatch
 #
 # Author: https://github.com/srciaga
-# Last revised: May 28, 2024
+# Last revised: May 29, 2024
 #
 
 # Check if dependencies are installed
@@ -25,7 +25,7 @@ check_cmd_installed "pandoc"
 # Check if files exist
 TEMPLATE="./template/template.html"
 WATCH="./template/guide.md"
-OUTPUT="./site/index.html"
+OUTPUT="./docs/index.html"
 
 check_file_exists() {
   if [ ! -f "$1" ]; then
