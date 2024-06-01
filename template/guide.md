@@ -1,6 +1,6 @@
 ---
 title: Mini Neocities Guide
-date: May 28, 2024
+date: Jun 1, 2024
 description: A short beginner's guide to making a website on Neocities.
 ---
 
@@ -53,7 +53,7 @@ Here are some plugins I recommend:
 
 Before coding, plan your content and layout. Write your HTML first, then style it with CSS.
 
-Follow a tutorial in a format that works best for you, whether written or video. Make sure you actively code along with the tutorial—watching alone isn't enough. There are tutorials mentioned in the [planning section](planning).
+Follow a tutorial in a format that works best for you, whether written or video. Make sure you actively code along with the tutorial—watching alone isn't enough. There are tutorials mentioned in the [planning section](#planning).
 
 You don't need to memorize every HTML tag or CSS property. Learn enough to bring your ideas to life on the webpage. If you have an idea but aren't sure how to implement it, look it up! Don't get discouraged—there are plenty of resources online, and you can always ask for help.
 
@@ -73,3 +73,4 @@ Once your site is done, upload it to Neocities. Click the upload button to selec
 Every time you want to update a page, just drag and drop it to replace the old file. If you're adding a new page, remember to link to it so people can access it.
 
 Remember to have fun!!
+

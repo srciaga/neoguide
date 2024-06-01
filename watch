@@ -1,14 +1,14 @@
 #!/bin/bash
 #
-# This script monitors changes to a markdown file, converts it to HTML 
-# using Pandoc, and updates the output HTML file.
+# This script monitors changes to a markdown and template file,
+# converts them to HTML using Pandoc, and updates the output HTML file.
 #
 # Dependencies:
 # - https://github.com/jgm/pandoc
 # - https://github.com/emcrisostomo/fswatch
 #
 # Author: https://github.com/srciaga
-# Last revised: May 29, 2024
+# Last revised: Jun 1, 2024
 #
 
 # Check if dependencies are installed
@@ -39,6 +39,6 @@ check_file_exists "$WATCH"
 check_file_exists "$OUTPUT"
 
 # Watch for updates
-fswatch --event "Updated" -v "$WATCH" | while read -r; do 
+fswatch --event "Updated" -v "$WATCH" "$TEMPLATE" | while read -r; do 
   pandoc --standalone --template "$TEMPLATE" "$WATCH" -o "$OUTPUT"
 done
