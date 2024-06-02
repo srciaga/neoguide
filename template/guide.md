@@ -4,11 +4,14 @@ date: Jun 1, 2024
 description: A short beginner's guide to making a website on Neocities.
 ---
 
+
+::: {.links}
+[[Planning] - [Coding] - [Uploading to Neocities]]
+::: 
+
 [Neocities](https://neocities.org/) is a social network of websites that brings back the lost individual creativity of the web. It offers free static web hosting and tools to create and share your own website.
 
-This guide is for anyone with little to no HTML/CSS knowledge who wants to build their first site!
-
----
+This guide is for anyone with little to no HTML/CSS knowledge who wants to build their first site! `\(★ω★)/`
 
 ## Planning
 
@@ -27,8 +30,6 @@ Here are some resources I've found:
 - [eggramen's templates](https://eggramen.neocities.org/code/css_testpages#templates)
 - [Zonelets](https://zonelets.net/) - HTML blogging engine (something to consider if you want a blog!)
 - [Neocities tutorial page](https://neocities.org/tutorials)
-
----
 
 ## Coding
 
@@ -57,8 +58,6 @@ Follow a tutorial in a format that works best for you, whether written or video.
 
 You don't need to memorize every HTML tag or CSS property. Learn enough to bring your ideas to life on the webpage. If you have an idea but aren't sure how to implement it, look it up! Don't get discouraged—there are plenty of resources online, and you can always ask for help.
 
----
-
 ## Uploading to Neocities
 
 Once your site is done, upload it to Neocities. Click the upload button to select your files or drag and drop them (faster).
@@ -72,5 +71,5 @@ Once your site is done, upload it to Neocities. Click the upload button to selec
 ::: 
 Every time you want to update a page, just drag and drop it to replace the old file. If you're adding a new page, remember to link to it so people can access it.
 
-Remember to have fun!!
+Remember to have fun!! `˖✧◝(⁰▿⁰)◜✧˖`
 
